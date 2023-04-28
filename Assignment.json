@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "language_info": {
+      "codemirror_mode": {
+        "name": "python",
+        "version": 3
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "nbconvert_exporter": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.8"
+    },
+    "kernelspec": {
+      "name": "python",
+      "display_name": "Python (Pyodide)",
+      "language": "python"
+    }
+  },
+  "nbformat_minor": 4,
+  "nbformat": 4,
+  "cells": [
+    {
+      "cell_type": "code",
+      "source": "# My Data Science Notebook\n",
+      "metadata": {
+        "tags": []
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "## Introduction\nWelcome to my data science notebook! In this notebook, we will explore various data science concepts and perform analysis using code cells.",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "## Data Science Languages\n- Python\n- R\n- Julia\n- SQL",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "## Data Science Libraries\n- NumPy\n- Pandas\n- Scikit-learn\n- TensorFlow\n- Keras",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "## Data Science Tools\n\n| Tool         | Description                     |\n|--------------|---------------------------------|\n| Jupyter      | Interactive notebooks           |\n| Tableau      | Data visualization              |\n| Git          | Version control                 |\n| SQL          | Database querying               |\n| Matplotlib   | Data plotting                   |",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "## Arithmetic Expression Examples\nBelow are some examples of arithmetic expressions:",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "# Multiply and add numbers\na = 5\nb = 3\nmultiply_result = a * b\nadd_result = a + b\nprint(\"Multiplication result:\", multiply_result)\nprint(\"Addition result:\", add_result)",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "# Convert minutes to hours\nminutes = 120\nhours = minutes / 60\nprint(minutes, \"minutes is equal to\", hours, \"hours.\")",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "## Objectives\n- Learn about data science languages and libraries.\n- Explore data science tools.\n- Practice arithmetic expressions in Python.",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "## Author\nTalibova Sariyya",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
